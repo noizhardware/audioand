@@ -9,13 +9,13 @@
 
 A mix of the 3 signals is fed into the VCA.
 
-_INLETS:_
+*_INLETS:_*
 - 3x audio~ inputs
 - 3x threshold inputs (0-1 interval)
 - VCA volume (0-10 recommended)
 - AD envelope speed (millisec)
 
-_OUTPUTS:_
+*_OUTPUTS:_*
 - audio~ out
 - envelope / numeric (0-1)
 - envelope~ (0-1)
