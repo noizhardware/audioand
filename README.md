@@ -1,8 +1,8 @@
 # audioAND
 
-## _please feel free to comment and commit here if you modify it please!!!_
+### _please feel free to comment and commit here if you modify it please!!!_
 
-### This is an implementation of the logic operator AND in the audio domain
+## This is an implementation of the logic operator AND in the audio domain
 [here a nice little video](https://youtu.be/du7YeRkbu44) where the audioAND is being used
 
 3 audio signals are normalized to a 0-1 interval and each compared with a threshold, the boolean results are then fed in AND gates and used to generate a VCA with a simple AD envelope.
