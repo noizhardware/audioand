@@ -1,6 +1,6 @@
 # audioAND
 
-### _please feel free to comment and commit here if you modify it please!!!_
+### _Feel free to comment and please commit here if you modify it!!!_
 
 ## This is an implementation of the logic operator AND in the audio domain
 [Here a nice little video](https://youtu.be/du7YeRkbu44) where the audioAND is being used (it wasn't still an abstraction here)
