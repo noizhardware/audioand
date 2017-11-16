@@ -25,5 +25,7 @@ The 3 signals are fed into the VCA and sent out on the first 3 outlets.
 
 
 The abstraction has 11 "a" in its name just to have all the inlets and outlets not too crammed. Also, 11 is a prime number.
+
 You gotta love prime numbers.
+
 Seriously.
