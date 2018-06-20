@@ -6,9 +6,9 @@
 ## This is an implementation of the logic operator AND in the audio domain
 [Here a nice little video](https://youtu.be/du7YeRkbu44) where the audioAND is being used (it wasn't still an abstraction here)
 
-3 audio signals are normalized to a 0-1 interval and each compared with a threshold, the boolean results are then fed in AND gates and used to generate a VCA with a simple AD envelope.
+3 audio signals are normalized to a 0-1 interval and each compared with a threshold, the boolean results are then fed in AND gates and used to generate cv's to pilot a VCA with a simple AD envelope.
 
-The 3 signals are fed into the VCA and sent out on the first 3 outlets.
+The 3 signals are fed into the VCA and sent out to the first 3 outlets.
 
 **_INLETS:_**
 - 3x audio~ inputs
