@@ -1,4 +1,5 @@
 # audioAND
+![badge-languages]
 
 ### _Feel free to comment and please commit here if you modify it!!!_
 ### or send an email to noizhardware@gmail.com
