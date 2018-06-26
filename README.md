@@ -1,12 +1,4 @@
-![PromiseKit](http://promisekit.org/public/img/logo-tight.png)
-
-![badge-pod] ![badge-languages] ![badge-pms] ![badge-platforms] [![Build Status](https://travis-ci.org/mxcl/PromiseKit.svg?branch=master)](https://travis-ci.org/mxcl/PromiseKit)
-
----
-
-
 # audioAND
-
 
 ### _Feel free to comment and please commit here if you modify it!!!_
 ### or send an email to noizhardware@gmail.com
